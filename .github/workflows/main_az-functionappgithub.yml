@@ -3,7 +3,7 @@
 # More info on Python, GitHub Actions, and Azure Functions: https://aka.ms/python-webapps-actions
 
 name: Build and deploy Python project to Azure Function App - az-functionappgithub
-
+#test
 on:
   push:
     branches:
